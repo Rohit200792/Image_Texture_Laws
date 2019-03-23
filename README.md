@@ -19,7 +19,7 @@ A Matlab based image classification tool that identifies regions of similar text
 
 %Here is an example test case:
 
-%im=imread('C:\Users\Rohit Singh\OneDrive\MSCS\CS6640 Image %Processing\Practise\08-30-18_16-31-53-160.jpg');
+%im=imread('C:\Users\Rohit Singh\OneDrive\MSCS\CS6640 Image Processing\Practise\08-30-18_16-31-53-160.jpg');
 
 %T = Image_Texture_Laws(im)
 
