@@ -15,4 +15,4 @@ A Matlab based image classification tool that identifies regions of similar text
     %IDX=kmeans(T,4);  %cluster indexes using kmeans to get segmented regions
     %imgSeg=reshape(IDX,492,652); %replace 492,652 with appropriate image size
 
-
+08-30-18_16-31-53-160.jpg is a sample input image
